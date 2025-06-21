@@ -23,10 +23,10 @@ import imagemin from 'imagemin';
 import imageminPngquant from 'imagemin-pngquant';
 
 await imagemin(['images/*.png'], {
-	destination: 'build/images',
-	plugins: [
-		imageminPngquant()
-	]
+  destination: 'build/images',
+  plugins: [
+    imageminPngquant()
+  ]
 });
 
 console.log('Images optimized');
