@@ -34,12 +34,12 @@
 		"pngquant"
 	],
 	"dependencies": {
-		"environment": "^1.0.0",
+		"environment": "^1.1.0",
 		"execa": "^9.6.0",
 		"is-png": "^3.0.1",
 		"ow": "^2.0.0",
 		"pngquant-bin": "github:mimmi20/pngquant-bin#main",
-		"uint8array-extras": "^1.1.0"
+		"uint8array-extras": "^1.4.0"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.27.0",
