@@ -35,7 +35,7 @@
 		"is-png": "^3.0.1",
 		"ow": "^2.0.0",
 		"pngquant-bin": "github:mimmi20/pngquant-bin#main",
-		"uint8array-extras": "^1.1.0"
+		"uint8array-extras": "^1.4.0"
 	},
 	"devDependencies": {
 		"@types/node": "^22.15.30",
