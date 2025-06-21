@@ -30,7 +30,7 @@
 		"pngquant"
 	],
 	"dependencies": {
-		"environment": "^1.0.0",
+		"environment": "^1.1.0",
 		"execa": "^9.6.0",
 		"is-png": "^3.0.1",
 		"ow": "^2.0.0",
